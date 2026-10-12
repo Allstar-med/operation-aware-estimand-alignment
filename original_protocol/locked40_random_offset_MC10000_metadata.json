@@ -1,0 +1,9 @@
+{
+  "seed": 20261006,
+  "random_offset_repeats": 10000,
+  "sampled_pairs_per_seed_criterion": 10000,
+  "exact_baseline_pooled_macro_auc": 0.6704438932233727,
+  "pair_MC_baseline": 0.6716777777777778,
+  "absolute_pair_MC_baseline_error": 0.0012338845544050958,
+  "lambda_units": "criterion- and seed-specific within-operation residual logit SD"
+}

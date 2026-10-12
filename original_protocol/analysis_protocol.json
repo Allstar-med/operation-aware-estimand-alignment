@@ -1,0 +1,25 @@
+{
+  "analysis_date": "2026-10-06",
+  "locked_test_frames": 1663,
+  "locked_test_operations": 40,
+  "seeds": [
+    17,
+    29,
+    43
+  ],
+  "criteria": [
+    "C1",
+    "C2",
+    "C3"
+  ],
+  "random_offset_seed": 20261006,
+  "random_offset_repeats": 10000,
+  "pairs_per_seed_criterion": 10000,
+  "directed_shift": "label-free: centered standardized operation mean logit; lambda in within-operation residual-logit SD units",
+  "quarantined_from_primary": [
+    "598-frame same-vs-different training comparison",
+    "CholecSeg8k split-effect headline",
+    "local provenance/duplicate audit",
+    "patient-overlap/99% result"
+  ]
+}

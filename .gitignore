@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+locked_test_predictions_seed*.csv
+locked40_estimand_support.csv
+locked40_estimand_support_by_operation.csv
+ARCHIVE_TO_CURRENT_SHA256_RECONCILIATION.csv
+REGENERATED_10000_*.csv

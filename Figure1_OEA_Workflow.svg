@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="628.2pt" height="219.528pt" viewBox="0 0 628.2 219.528" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-12T07:36:46.841964</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 219.528 
+L 628.2 219.528 
+L 628.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 13.896 165.204 
+L 128.286 165.204 
+L 128.286 51.552 
+L 13.896 51.552 
+z
+" clip-path="url(#paa21f8909d)" style="fill: #f3f6f7; stroke: #d2dde2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 137.772 165.204 
+L 252.162 165.204 
+L 252.162 51.552 
+L 137.772 51.552 
+z
+" clip-path="url(#paa21f8909d)" style="fill: #f3f6f7; stroke: #d2dde2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 261.648 165.204 
+L 376.038 165.204 
+L 376.038 51.552 
+L 261.648 51.552 
+z
+" clip-path="url(#paa21f8909d)" style="fill: #f3f6f7; stroke: #d2dde2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 385.524 165.204 
+L 499.914 165.204 
+L 499.914 51.552 
+L 385.524 51.552 
+z
+" clip-path="url(#paa21f8909d)" style="fill: #f3f6f7; stroke: #d2dde2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 509.4 165.204 
+L 623.79 165.204 
+L 623.79 51.552 
+L 509.4 51.552 
+z
+" clip-path="url(#paa21f8909d)" style="fill: #f3f6f7; stroke: #d2dde2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147d82" x="21.15" y="69.8472" transform="rotate(-0 21.15 69.8472)">01</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="21.15" y="93.132" transform="rotate(-0 21.15 93.132)">Declare target</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #596977" transform="translate(21.15 126.93075)">Pooled frame pairs vs.</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #596977" transform="translate(21.15 135.889)">within-operation pairs</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 130.846588 106.992 
+Q 132.751383 106.992 132.979127 106.992 
+" style="fill: none; stroke: #147d82; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 129.379127 105.192 
+L 132.979127 106.992 
+L 129.379127 108.792 
+" style="fill: none; stroke: #147d82; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147d82" x="145.026" y="69.8472" transform="rotate(-0 145.026 69.8472)">02</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="145.026" y="93.132" transform="rotate(-0 145.026 93.132)">Lock evidence</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #596977" transform="translate(145.026 126.93075)">40 operations · 1,663 frames</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #596977" transform="translate(145.026 135.889)">3 frozen seeds · C1–C3</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 254.722588 106.992 
+Q 256.627383 106.992 256.855127 106.992 
+" style="fill: none; stroke: #147d82; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 253.255127 105.192 
+L 256.855127 106.992 
+L 253.255127 108.792 
+" style="fill: none; stroke: #147d82; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147d82" x="268.902" y="69.8472" transform="rotate(-0 268.902 69.8472)">03</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="268.902" y="93.132" transform="rotate(-0 268.902 93.132)">Audit support</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #596977" transform="translate(268.902 126.93075)">Positive / negative support</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #596977" transform="translate(268.902 135.889)">and pair composition</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 378.598588 106.992 
+Q 380.503383 106.992 380.731127 106.992 
+" style="fill: none; stroke: #147d82; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 377.131127 105.192 
+L 380.731127 106.992 
+L 377.131127 108.792 
+" style="fill: none; stroke: #147d82; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147d82" x="392.778" y="69.8472" transform="rotate(-0 392.778 69.8472)">04</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="392.778" y="93.132" transform="rotate(-0 392.778 93.132)">Stress-test</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #596977" transform="translate(392.778 126.93075)">Label-free operation shifts</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #596977" transform="translate(392.778 135.889)">paired cluster resampling</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 502.474588 106.992 
+Q 504.379383 106.992 504.607127 106.992 
+" style="fill: none; stroke: #147d82; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 501.007127 105.192 
+L 504.607127 106.992 
+L 501.007127 108.792 
+" style="fill: none; stroke: #147d82; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #147d82" x="516.654" y="69.8472" transform="rotate(-0 516.654 69.8472)">05</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="516.654" y="93.132" transform="rotate(-0 516.654 93.132)">Report choice</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #596977" transform="translate(516.654 126.93075)">Estimand-specific ranking</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; fill: #596977" transform="translate(516.654 135.889)">and uncertainty</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="12.78" y="23.832" transform="rotate(-0 12.78 23.832)">A  |  Operation-aware estimand alignment (OEA)</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #596977" x="12.78" y="193.4784" transform="rotate(-0 12.78 193.4784)">Prespecified evaluation targets; no new model training, threshold tuning or external-site validation.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="paa21f8909d">
+   <rect x="7.2" y="7.2" width="613.8" height="205.128"/>
+  </clipPath>
+ </defs>
+</svg>

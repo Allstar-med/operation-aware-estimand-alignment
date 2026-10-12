@@ -1,0 +1,24 @@
+{
+  "E1_pooled_frame_auc": {
+    "unit": "positive-negative frame pair sampled from the pooled 40-operation test cohort",
+    "weights": "implicit pair-count weighting",
+    "cross_operation_pairs": "included",
+    "interpretation": "population-level frame discrimination under the empirical operation mixture"
+  },
+  "E2_equal_operation_within_auc": {
+    "unit": "operation",
+    "weights": "equal across operations with both outcome states, separately by criterion, then macro-averaged",
+    "cross_operation_pairs": "excluded",
+    "interpretation": "within-operation discrimination conditional on criterion estimability",
+    "support": {
+      "C1": "24/40",
+      "C2": "19/40",
+      "C3": "22/40"
+    }
+  },
+  "E3_rank_preserving_sensitivity": {
+    "unit": "change in E1 under operation-constant score-location perturbations with E2 invariant",
+    "weights": "same locked cohort; lambda scaled by within-operation residual logit SD",
+    "interpretation": "estimand sensitivity / falsification; not deployment performance or causal effect"
+  }
+}
