@@ -37,4 +37,4 @@ python oea.py /path/to/predictions.csv --operation video --label y_c1 --score p_
 
 The figures and aggregate tables document the reported analysis. Some frozen predictions were also used in another manuscript; these are shared derived assets, not an independent clinical cohort. The 6 October draft was superseded by the revised manuscript.
 
-No license to redistribute Endoscapes data is conveyed by this repository. The dataset's own access and use terms continue to apply.
+The MIT license covers the repository's original code and documentation. It does not grant permission to redistribute Endoscapes data or the withheld prediction files; the dataset's own access and use terms continue to apply.
